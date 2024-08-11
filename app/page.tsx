@@ -25,7 +25,7 @@ const page = () => {
         <p className="text-white text-lg">A simple authentication services</p>
 
         <div>
-          <LoginButton>
+          <LoginButton asChild>
             <Button variant="secondary" size="lg">
               Sign In
             </Button>
