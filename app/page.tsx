@@ -27,8 +27,8 @@ const page = () => {
         <div>
           <LoginButton asChild>
             <Button variant="secondary" size="lg">
-              Sign In
-            </Button>
+              Sign In       
+            </Button>     
           </LoginButton>
         </div>
       </div>
