@@ -22,13 +22,15 @@ const page = () => {
         >
           🔐Authentication
         </h1>
-        <p className="text-white text-lg mt-6 mb-6">A simple authentication services</p>
+        <p className="text-white text-lg mt-6 mb-6">
+          An Advanced & Secure authentication system
+        </p>
 
         <div>
           <LoginButton asChild>
-            <Button variant="secondary" size="lg"  className="font-bold">
-              Sign In       
-            </Button>     
+            <Button variant="secondary" size="lg" className="font-bold">
+              Sign In
+            </Button>
           </LoginButton>
         </div>
       </div>
